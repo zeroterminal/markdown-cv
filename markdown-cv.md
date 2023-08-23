@@ -28,3 +28,8 @@ My dream is to build a multi-purpose programming company, and have a charity to 
 ## CHECK MY PORTFOLIO
 https://github.com/zeroterminal
 
+
+### CONTACT ME
+email: jadsabeh@gmail.com <br>
+discord: zonednetwork
+
